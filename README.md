@@ -42,9 +42,8 @@ An end-to-end shopping platform built with full authentication, payment gateways
 
 ### ⚡ Fun Fact
 
-> I wake up at **4:50 AM daily** to create, build, and grow.  
+> I like **playing chess**.  
 > My mission: **Build apps that solve real-world problems and create value**.
-> To become a grand master in Chess
 
 ---
 
