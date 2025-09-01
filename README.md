@@ -21,7 +21,7 @@ I'm a passionate **Full-Stack Developer** from Kenya 🇰🇪 who loves building
 ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.jsl-000000?logo=vercel&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=vercel&logoColor=white&style=flat-square)
 
 ---
 
